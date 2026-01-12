@@ -1,0 +1,12 @@
+{
+  "name": "fluxa-skills",
+  "owner": {
+    "name": "FluxA",
+    "email": "support@fluxapay.xyz"
+  },
+  "metadata": {
+    "description": "Community skills marketplace - Publish and discover Claude Code skills",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
