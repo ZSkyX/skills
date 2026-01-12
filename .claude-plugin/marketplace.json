@@ -11,27 +11,30 @@
   "plugins": [
     {
       "name": "test1/extract-linkedin-leads",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/ZSkyX/skills/tree/main/test1/extract-linkedin-leads"
-      },
+      "source": "./plugins/test1/extract-linkedin-leads",
       "description": "Extracts LinkedIn profiles of professionals based on search criteria like company, role, industry, or keywords.",
-      "version": "1.0.0",
       "author": {
         "name": "test1"
-      }
+      },
+      "homepage": "https://github.com/ZSkyX/skills/tree/main/plugins/test1/extract-linkedin-leads"
     },
     {
       "name": "test1/extract-linkedin-leads",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/ZSkyX/skills/tree/main/test1/extract-linkedin-leads"
-      },
+      "source": "./plugins/test1/extract-linkedin-leads",
       "description": "Extracts LinkedIn profiles of professionals based on search criteria like company, role, industry, or keywords.",
-      "version": "1.0.0",
       "author": {
         "name": "test1"
-      }
+      },
+      "homepage": "https://github.com/ZSkyX/skills/tree/main/plugins/test1/extract-linkedin-leads"
+    },
+    {
+      "name": "test1/extract-linkedin-leads",
+      "source": "./plugins/test1/extract-linkedin-leads",
+      "description": "Extracts LinkedIn profiles of professionals based on search criteria like company, role, industry, or keywords.",
+      "author": {
+        "name": "test1"
+      },
+      "homepage": "https://github.com/ZSkyX/skills/tree/main/plugins/test1/extract-linkedin-leads"
     }
   ]
 }
